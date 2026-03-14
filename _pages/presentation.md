@@ -1,6 +1,6 @@
 ---
 permalink: /presentation/
-title: "简单演示"
+title: ""
 layout: single
 toc: true
 toc_label: "内容目录"
