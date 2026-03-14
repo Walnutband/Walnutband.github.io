@@ -1,5 +1,6 @@
 ---
 permalink: /presentation/
+layout: single
 title: "简单演示"
 ---
   
