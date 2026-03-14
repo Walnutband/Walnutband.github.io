@@ -3,11 +3,11 @@
 {%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
 <!doctype html>
-<!-- {% include copyright.html %} -->
+{% include copyright.html %}
 <!-- <html lang="{{ locale | replace: "_", "-" | default: "en" }}" class="no-js"> -->
 <html lang="{{ locale | replace: "_", "-" | default: "zh" }}" class="no-js">
   <head>
-    <!-- {% include head.html locale=locale %} -->
+    {% include head.html locale=locale %}
     {% include head/custom.html %}
   </head>
 
@@ -17,7 +17,7 @@
 
     <div class="initial-content">
       {{ content }}
-      {% include after-content.html %}
+      <!-- {% include after-content.html %} -->
     </div>
 
     {% if site.search == true %}
