@@ -27,7 +27,8 @@ author-profile: false
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="no"
             scrolling="no"
-            allowfullscreen="true">
+            allowfullscreen="true"
+            autoplay="0">
     </iframe>
 </div>
 
@@ -38,7 +39,8 @@ author-profile: false
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="no"
             scrolling="no"
-            allowfullscreen="true">
+            allowfullscreen="true"
+            autoplay="0">
     </iframe>
 </div>
 
