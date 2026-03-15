@@ -4,6 +4,8 @@ main:
     url: /
   - title: "简单演示"
     url: /presentation
+  - title: "技术文档"
+    url: /docs
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
