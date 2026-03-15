@@ -20,6 +20,10 @@ author-profile: false
 # 角色控制
 
 实现了一个简单的可以进行奔跑、连段普通攻击、普攻衔接重击的角色，以及简单的伤害和Buff逻辑。
+<video width="640" height="360" controls>
+  <source src="/assets/videos/2026-03-13 20-36-09.mp4" type="video/mp4">
+</video>
+
 
 # UI控件
 
