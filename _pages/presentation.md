@@ -23,24 +23,24 @@ author-profile: false
 
 实现了一个简单的可以进行奔跑、连段普通攻击、普攻衔接重击的角色，以及简单的伤害和Buff逻辑。
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116233743638147&bvid=BV1ohw3zmErb&cid=36722968961&p=1"
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116233743638147&bvid=BV1ohw3zmErb&cid=36722968961&p=1&autoplay=0"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="no"
             scrolling="no"
             allowfullscreen="true"
-            autoplay="0">
+            sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups">
     </iframe>
 </div>
 
 # UI控件
 在《绝区零》中看到了这个动效，尝试复刻了一下。
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116233743769261&bvid=BV1qhw3zUEzQ&cid=36723033196&p=1"
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116233743769261&bvid=BV1qhw3zUEzQ&cid=36723033196&p=1&autoplay=0"
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="no"
             scrolling="no"
             allowfullscreen="true"
-            autoplay="0">
+            sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups">
     </iframe>
 </div>
 
