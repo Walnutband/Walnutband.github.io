@@ -17,20 +17,20 @@ minimal_mistakes_skin    : "sunrise" # "default" # "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "zh-CN"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "暂无站点标题"
+title                    : "😋😋😋"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "无名氏"
 description              : "记录个人的学习路线、技术文档"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Walnutband/Walnutband.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : true # true, false (default)    是否启用代码复制按钮
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -111,12 +111,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-# 显示在左侧的站点所有者的信息
+# 显示在左侧的站点所有者的信息，这是对于有Author信息的站点共用的内容。
 # Site Author
 author:
-  name             : "待定"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : "I am an **amazing** person." # 简要个人介绍
+  name             : "😄"
+  avatar           : "/assets/images/Escoffier.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Unity，UI，C#，ARPG，独立游戏，原，爱可菲🤤" # 简要个人介绍
   # location         : "Somewhere" # 所在地
   # email            :  # 个人邮箱
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -324,7 +324,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: true #默认开启左边个人信息显示。
       read_time: true
       comments: # true
       share: true
