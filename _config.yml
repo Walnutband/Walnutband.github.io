@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "😄"
   avatar           : "/assets/images/Escoffier.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Unity，UI，C#，ARPG，独立游戏，原，爱可菲🤤" # 简要个人介绍
+  bio              : "Unity，UI，C#，ARPG，独立游戏，原" # 简要个人介绍
   # location         : "Somewhere" # 所在地
   # email            :  # 个人邮箱
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
