@@ -5,7 +5,7 @@ main:
   - title: "简单演示"
     url: /presentation
   - title: "技术文档"
-    url: /docs
+    url: /techdocs
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

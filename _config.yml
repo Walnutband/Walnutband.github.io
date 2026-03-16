@@ -307,6 +307,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# 技术文档集合分类
+collections:
+  techdocs:
+    output: true
+    permalink: /techdocs/:path/
+
 
 # HTML Compression
 # - https://jch.penibelst.de/
