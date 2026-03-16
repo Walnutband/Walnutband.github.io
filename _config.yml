@@ -308,11 +308,14 @@ tag_archive:
 #     tag: /tags/:name/
 
 # 技术文档集合分类
-collections:
-  techdocs:
-    output: true
-    permalink: /techdocs/:path/
-
+# collections:
+#   techdocs:
+#     output: true
+#     permalink: /techdocs/:path/ # :path是占位符，会被替换为文档文件路径（不含扩展名）
+# 经过这样配置，Jekyll会自动：
+# 1. 在项目根目录查找 _techdocs 文件夹
+# 2. 读取该文件夹下的所有 Markdown 文件
+# 3. 将它们作为 site.techdocs 集合的成员
 
 # HTML Compression
 # - https://jch.penibelst.de/

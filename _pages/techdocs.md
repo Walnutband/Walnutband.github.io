@@ -1,12 +1,15 @@
 ---
 title: "技术文档"
-layout: archive # 使用 archive 布局非常适合显示列表
+layout: single
 permalink: /techdocs/
 ---
 
-技术文档区，选择专题：（暂无内容）
-
-{% for doc in site.techdocs %}
-## [{{ doc.title }}]({{ doc.url | relative_url }})
-{{ doc.excerpt | markdownify }} <!-- 如果有摘要，可以显示在这里 -->
+技术专题：（暂无内容）
+<!-- 读取_data.techdocs.yml文件中的内容，在此逐项生成，就是各个技术专题 -->
+<ul>
+{% for item in site.data.techdocs %}
+  <li>
+    <a href="{{ item.url | relative_url }}" style="font-size: 1.25em; font-weight: bold;">{{ item.title }}</a>
+  </li>
 {% endfor %}
+</ul>

@@ -16,3 +16,28 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# unity UI系统的相关文档
+techdocs_unity-ui:
+  - title: 概述
+  - title: 事件系统
+    children:
+      - title: "射线检测"
+        url: /techdocs/unity-ui/raycaster
+      - title: "输入模块"
+        url: /techdocs/unity-ui/inputmodule
+  - title: 布局系统
+    children:
+      - title: "基本布局"
+        url: /techdocs/unity-ui/basic-layout
+      - title: "自动布局"
+        url: /techdocs/unity-ui/auto-layout
+  - title: UI控件
+    children:
+      - title: "滚动条ScrollBar"
+        url: /techdocs/unity-ui/scrollbar
+      - title: "折叠菜单" # Foldout与Accordion应该都属于折叠菜单，就是两种不同的表现形式。
+        url: /techdocs/unity-ui/foldout
+# unity 动画系统的相关文档
+techdocs_unity-animation:
+  - title: 概述
