@@ -3,9 +3,9 @@
 # 用于生成技术文档专题目录，要增加新的专题就在这里添加title和url即可。
 
 - title: "Unity之UI系统"
-  url: "/unity-ui/" # 可以是站内相对链接
+  url: "/techdocs/unity-ui/" # 可以是站内相对链接
 - title: "Unity之动画系统"
-  url: "/unity-animation/"
+  url: "/techdocs/unity-animation/"
 # - title: "外部参考链接"
 #   url: "https://example.com" # 也可以是绝对链接
 
