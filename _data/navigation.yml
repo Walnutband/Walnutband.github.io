@@ -20,6 +20,9 @@ main:
 # unity UI系统的相关文档
 techdocs_unity-ui:
   - title: 概述
+    children: 
+      - title: "首页"
+        url: /techdocs/unity-ui/
   - title: 事件系统
     children:
       - title: "射线检测"
