@@ -20,22 +20,26 @@ main:
 # unity UI系统的相关文档
 techdocs_unity-ui:
   - title: 概述
+    title_style: "font-size: 20px;"
     children: 
       - title: "首页"
         url: /techdocs/unity-ui/
   - title: 事件系统
+    title_style: "font-size: 20px;"
     children:
       - title: "射线检测"
         url: /techdocs/unity-ui/raycaster
       - title: "输入模块"
         url: /techdocs/unity-ui/inputmodule
   - title: 布局系统
+    title_style: "font-size: 20px;"
     children:
       - title: "基本布局"
         url: /techdocs/unity-ui/basic-layout
       - title: "自动布局"
         url: /techdocs/unity-ui/auto-layout
   - title: UI控件
+    title_style: "font-size: 20px;"
     children:
       - title: "滚动条ScrollBar"
         url: /techdocs/unity-ui/scrollbar
