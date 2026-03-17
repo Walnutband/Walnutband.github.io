@@ -32,7 +32,7 @@ author-profile: false
     </iframe>
 </div>
 
-# UI控件
+# UI
 在《绝区零》中看到了这个动效，尝试复刻了一下。
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
     <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116233743769261&bvid=BV1qhw3zUEzQ&cid=36723033196&p=1&high_quality=1&autoplay=0"
@@ -43,5 +43,17 @@ author-profile: false
             sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups">
     </iframe>
 </div>
+
+简单复刻了UGUI的基本布局
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116241662547419&bvid=BV1gowSzLE5q&cid=36752918649&p=1&high_quality=1&autoplay=0"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="no"
+            scrolling="no"
+            allowfullscreen="true"
+            sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups">
+    </iframe>
+</div>
+
 
 
